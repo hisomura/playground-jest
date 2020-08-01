@@ -1,0 +1,20 @@
+{
+  "name": "learning-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --maxWorkers=1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "@types/jest": "^26.0.8",
+    "jest": "^26.2.2",
+    "ts-jest": "^26.1.4",
+    "typescript": "^3.9.7",
+    "prettier": "^2.0.5"
+  }
+}
