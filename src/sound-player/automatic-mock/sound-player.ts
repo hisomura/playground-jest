@@ -2,11 +2,12 @@
 
 export default class SoundPlayer {
   protected foo: string
+
   constructor() {
-    this.foo = 'bar';
+    this.foo = 'bar'
   }
 
   playSoundFile(fileName) {
-    console.log('Playing sound file ' + fileName);
+    console.log('Playing sound file ' + fileName)
   }
 }
